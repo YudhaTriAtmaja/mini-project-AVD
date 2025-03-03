@@ -1,2 +1,2 @@
-# mini-project-AVD
+# mini-project-1-AVD
 Yudha Tri Atmaja
